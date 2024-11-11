@@ -1,0 +1,7 @@
+Estado (char=A);
+Codigo da carta (char[01]);
+Nome da Cidade (char[aracaju]);
+População (int=20.000);
+Área de Km2 (Float=230km);
+PIB (Float= 459.4 Milhões);
+Numero de Pontos Turísticos (int=10);
